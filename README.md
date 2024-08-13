@@ -34,10 +34,10 @@ You can reach out to me through various platforms. Feel free to connect with me!
   <a href="https://www.linkedin.com/in/hatim-alouani-527617304/" style="margin: 0 15px;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="" style="margin: 0 15px;">
+  <a href="https://instagram.com/hatim_alouani/" style="margin: 0 15px;">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="" style="margin: 0 15px;">
+  <a href="https://www.facebook.com/hatim.alouani.752?locale=fr_FR" style="margin: 0 15px;">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook">
   </a>
 </p>

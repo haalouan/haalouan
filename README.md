@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm thrilled to have you here.
 - 🌱 **Interests:** Cybersecurity, Artificial Intelligence, Backend Development
 - 📜 **Certification:**
 - <Diplôme d'études universitaires scientifiques et techniques filière (MIPC) a la Faculté des Sciences et Techniques de Beni Mellal>
-- I am currently progressing through the 42 curriculum, which equips students with essential coding skills and a broad range of soft skills. I have completed several projects up to 'minishell,' marking nearly halfway through the core program.
+- I am currently progressing through the 42 curriculum, which equips students with essential coding skills and a broad range of soft skills.
 - 🌐 **Website:** ~will be added soon...~
 
 ## 🛠️ Tech Stack

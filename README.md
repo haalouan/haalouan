@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm thrilled to have you here.
 
 ## 🛠️ Tech Stack
 
-- **Programming Languages:** ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/Java-4EAA25?style=flat&logo=gnu-java&logoColor=white) ![Cpp](https://img.shields.io/badge/Cpp-3776AB?style=flat&logo=cpp&logoColor=white)
+- **Programming Languages:** ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=gnu-c&logoColor=white) ![Java](https://img.shields.io/badge/Java-4EAA25?style=flat&logo=gnu-java&logoColor=white) ![Cpp](https://img.shields.io/badge/Cpp-3776AB?style=flat&logo=cpp&logoColor=white)
 - **Tools & Technologies:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ## 📈 GitHub Stats

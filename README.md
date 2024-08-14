@@ -32,17 +32,9 @@ Welcome to my GitHub profile! I'm thrilled to have you here.
 
 You can reach out to me through various platforms. Feel free to connect with me!
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/hatim-alouani-527617304/" style="margin: 0 15px;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://instagram.com/hatim_alouani/" style="margin: 0 15px;">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://www.facebook.com/hatim.alouani.752?locale=fr_FR" style="margin: 0 15px;">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook">
-  </a>
-</p>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hatim-alouani-527617304/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hatim_alouani/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/hatim.alouani.752?locale=fr_FR)
 
 <!--
 **HatimAlouani/Cloneg7** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

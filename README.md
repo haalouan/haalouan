@@ -6,8 +6,8 @@ Welcome to my GitHub profile! I'm thrilled to have you here.
 
 [![ael-hadd's 42 stats](https://badge.mediaplus.ma/green/haalouan)](https://profile.intra.42.fr/users/haalouan)
 - 🎓 **Student at [42 coding school](https://www.42.fr/)**
-- 💻 **Languages:** C ,cpp ,java
-- 🌱 **Interests:** Cybersecurity, Artificial Intelligence, Backend Development
+- 💻 **Languages:** C ,CPP ,Java ,PHP
+- 🌱 **Interests:** Artificial Intelligence, Backend Development
 - 📜 **Certification:**
 - <Diplôme d'études universitaires scientifiques et techniques (DEUST) filière MATEMATIQUES, INFORMATIQUE, PHYSIQUE, CHIMIE (MIPC) a la Faculté des Sciences et Techniques de Beni Mellal (FSTBM)>
 - I am currently progressing through the 42 curriculum, which equips students with essential coding skills and a broad range of soft skills.

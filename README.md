@@ -18,16 +18,7 @@ Welcome to my GitHub profile! I'm thrilled to have you here.
 
 - **Programming Languages:** ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=gnu-C&logoColor=white) ![Java](https://img.shields.io/badge/Java-4EAA25?style=flat&logo=gnu-Java&logoColor=white) ![CPP](https://img.shields.io/badge/CPP-3776AB?style=flat&logo=CPP&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-00599C?style=flat&logo=gnu-PHP&logoColor=white)
 - **Tools & Technologies:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Latex](https://img.shields.io/badge/Latex-007ACC?style=flat&logo=Latex&logoColor=white)
-
-
-<h3 align="left">Tools & Technologies:</h3>
 <p align="left">
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" />
-  </a>
   <a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="Invision" width="40" height="40" />
   </a>

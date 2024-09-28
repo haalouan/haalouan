@@ -17,21 +17,7 @@ Welcome to my GitHub profile! I'm thrilled to have you here.
 ## 🛠️ Tech Stack
 
 - **Programming Languages:** ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=gnu-C&logoColor=white) ![Java](https://img.shields.io/badge/Java-4EAA25?style=flat&logo=gnu-Java&logoColor=white) ![CPP](https://img.shields.io/badge/CPP-3776AB?style=flat&logo=CPP&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-00599C?style=flat&logo=gnu-PHP&logoColor=white)
-- **Tools & Technologies:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Latex](https://img.shields.io/badge/Latex-007ACC?style=flat&logo=Latex&logoColor=white)
-<p align="left">
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
-  </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40" />
-  </a>
-</p>
+- **Tools & Technologies:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Latex](https://img.shields.io/badge/Latex-007ACC?style=flat&logo=Latex&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-007ACC?style=flat&logo=Oracle&logoColor=white)
 
 
 ## 📈 GitHub Stats

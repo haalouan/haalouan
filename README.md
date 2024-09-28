@@ -20,17 +20,6 @@ Welcome to my GitHub profile! I'm thrilled to have you here.
 - **Tools & Technologies:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Latex](https://img.shields.io/badge/Latex-007ACC?style=flat&logo=Latex&logoColor=white)
 
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=haalouan&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=000000&text_color=ffffff" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=haalouan&show_icons=true&locale=en&theme=dark&bg_color=000000" alt="GitHub Stats" />
-</div>
-
-## 🔥 Contributions
-  ![commit_streak](https://github-readme-streak-stats.herokuapp.com/?user=haalouan&theme=dark&hide_border=false)  
-
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
@@ -77,6 +66,16 @@ Welcome to my GitHub profile! I'm thrilled to have you here.
   </a>
 </p>
 
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=haalouan&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=000000&text_color=ffffff" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=haalouan&show_icons=true&locale=en&theme=dark&bg_color=000000" alt="GitHub Stats" />
+</div>
+
+## 🔥 Contributions
+  ![commit_streak](https://github-readme-streak-stats.herokuapp.com/?user=haalouan&theme=dark&hide_border=false)  
 
 ## 🌍 Connect with Me
 

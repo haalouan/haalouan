@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm thrilled to have you here.
 ## 🛠️ Tech Stack
 
 - **Programming Languages:** ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=gnu-C&logoColor=white) ![Java](https://img.shields.io/badge/Java-4EAA25?style=flat&logo=gnu-Java&logoColor=white) ![CPP](https://img.shields.io/badge/CPP-3776AB?style=flat&logo=CPP&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-00599C?style=flat&logo=gnu-PHP&logoColor=white)
-- **Tools & Technologies:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Latex](https://img.shields.io/badge/Latex-007ACC?style=flat&logo=Latex&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-007ACC?style=flat&logo=Oracle&logoColor=white)
+- **Tools & Technologies:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Latex](https://img.shields.io/badge/Latex-007ACC?style=flat&logo=Latex&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-007ACC?style=flat&logo=Oracle&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-007ACC?style=flat&logo=MySQL&logoColor=white)
 
 
 ## 📈 GitHub Stats

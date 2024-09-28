@@ -9,7 +9,8 @@ Welcome to my GitHub profile! I'm thrilled to have you here.
 - 💻 **Skills:** Algorithm, C, Cpp, Html, Css, Php, Java, MySQL
 - 🌱 **Interests:** Artificial Intelligence, Backend Development
 - 📜 **Certification:**
-- <Diplôme d'études universitaires scientifiques et techniques (DEUST) filière MATEMATIQUES, INFORMATIQUE, PHYSIQUE, CHIMIE (MIPC) a la Faculté des Sciences et Techniques de Beni Mellal (FSTBM)>
+- Diplôme d'études universitaires scientifiques et techniques (DEUST)
+- Licence en Sciences et Techniques (LST) en Informatique
 - I am currently progressing through the 42 curriculum, which equips students with essential coding skills and a broad range of soft skills.
 - 🌐 **Website:** ~will be added soon...~
 

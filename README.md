@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm thrilled to have you here.
 [![ael-hadd's 42 stats](https://badge.mediaplus.ma/green/haalouan)](https://profile.intra.42.fr/users/haalouan)
 - 🎓 **Student at [42 coding school](https://www.42.fr/)**
 - 💻 **Skills:** Algorithm, C, Cpp, Html, Css, Python
-- 🌱 **Interests:** Artificial Intelligence, Backend Development
+- 🌱 **Interests:** Data & Artificial Intelligence, Backend Development
 - 📜 **Certification:**
 - Diplôme d'études universitaires scientifiques et techniques (DEUST)
 - Parcours d’excellence Systèmes d’Information et Intelligence Artificielle (SIIA)
@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm thrilled to have you here.
 ## 🛠️ Tech Stack
 
 - **Programming Languages:** ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=gnu-C&logoColor=white) ![CPP](https://img.shields.io/badge/CPP-3776AB?style=flat&logo=CPP&logoColor=white) ![Python](https://img.shields.io/badge/Python-00599C?style=flat&logo=gnu-Python&logoColor=white)
-- **Tools & Technologies:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Latex](https://img.shields.io/badge/Latex-007ACC?style=flat&logo=Latex&logoColor=white) ![Latex](https://img.shields.io/badge/Latex-007ACC?style=flat&logo=Latex&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-007ACC?style=flat&logo=MySQL&logoColor=white)
+- **Tools & Technologies:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Latex](https://img.shields.io/badge/Latex-007ACC?style=flat&logo=Latex&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-007ACC?style=flat&logo=MySQL&logoColor=white)
 
 
 ## 📈 GitHub Stats

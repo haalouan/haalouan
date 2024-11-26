@@ -6,18 +6,18 @@ Welcome to my GitHub profile! I'm thrilled to have you here.
 
 [![ael-hadd's 42 stats](https://badge.mediaplus.ma/green/haalouan)](https://profile.intra.42.fr/users/haalouan)
 - 🎓 **Student at [42 coding school](https://www.42.fr/)**
-- 💻 **Skills:** Algorithm, C, Cpp, Html, Css, Php, Java, MySQL
+- 💻 **Skills:** Algorithm, C, Cpp, Html, Css, Python
 - 🌱 **Interests:** Artificial Intelligence, Backend Development
 - 📜 **Certification:**
 - Diplôme d'études universitaires scientifiques et techniques (DEUST)
-- Licence en Sciences et Techniques (LST) en Informatique
-- I am currently progressing through the 42 curriculum, which equips students with essential coding skills and a broad range of soft skills.
+- Parcours d’excellence Systèmes d’Information et Intelligence Artificielle (SIIA)
+- 1337 (42 Network)
 - 🌐 **Website:** ~will be added soon...~
 
 ## 🛠️ Tech Stack
 
-- **Programming Languages:** ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=gnu-C&logoColor=white) ![Java](https://img.shields.io/badge/Java-4EAA25?style=flat&logo=gnu-Java&logoColor=white) ![CPP](https://img.shields.io/badge/CPP-3776AB?style=flat&logo=CPP&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-00599C?style=flat&logo=gnu-PHP&logoColor=white)
-- **Tools & Technologies:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Latex](https://img.shields.io/badge/Latex-007ACC?style=flat&logo=Latex&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-007ACC?style=flat&logo=Oracle&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-007ACC?style=flat&logo=MySQL&logoColor=white)
+- **Programming Languages:** ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=gnu-C&logoColor=white) ![CPP](https://img.shields.io/badge/CPP-3776AB?style=flat&logo=CPP&logoColor=white) ![Python](https://img.shields.io/badge/Python-00599C?style=flat&logo=gnu-Python&logoColor=white)
+- **Tools & Technologies:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Latex](https://img.shields.io/badge/Latex-007ACC?style=flat&logo=Latex&logoColor=white) ![Latex](https://img.shields.io/badge/Latex-007ACC?style=flat&logo=Latex&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-007ACC?style=flat&logo=MySQL&logoColor=white)
 
 
 ## 📈 GitHub Stats

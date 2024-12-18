@@ -23,9 +23,7 @@ Welcome to my GitHub profile! I'm thrilled to have you here.
 - **Tools & Technologies:**
   ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white)
- ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat)
-
- ![Latex](https://img.shields.io/badge/Latex-007ACC?style=flat&logo=Latex&logoColor=white)
+ ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat)![Latex](https://img.shields.io/badge/Latex-007ACC?style=flat&logo=Latex&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-007ACC?style=flat&logo=MySQL&logoColor=white) ![PySpark](https://img.shields.io/badge/PySpark-4E88B0?style=flat&logo=apache-spark&logoColor=white) ![Spark](https://img.shields.io/badge/Spark-ED1B24?style=flat&logo=apache-spark&logoColor=white) ![Hadoop](https://img.shields.io/badge/Hadoop-007ACC?style=flat&logo=apache-hadoop&logoColor=white)
 
 

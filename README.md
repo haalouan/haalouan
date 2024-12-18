@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm thrilled to have you here.
 
 [![ael-hadd's 42 stats](https://badge.mediaplus.ma/green/haalouan)](https://profile.intra.42.fr/users/haalouan)
 - 🎓 **Student at [42 coding school](https://www.42.fr/)**
-- 💻 **Skills:** Algorithm, C, Cpp, Html, Css, Python
+- 💻 **Skills:** Algorithms, Data Analyst, Machine learning
 - 🌱 **Interests:** Data & Artificial Intelligence, Backend Development
 - 📜 **Certification:**
 - Diplôme d'études universitaires scientifiques et techniques (DEUST)
